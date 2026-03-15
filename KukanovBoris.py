@@ -26,4 +26,4 @@ match operation:
         print("Операция не выбрана")
         result = "Ошибка!"
 
-print(f"Результат операции: {result}")
+print(f"Результат операции: {result}") #бебебе
