@@ -18,7 +18,7 @@ match operation:
         result = firstNumber * secondNumber
     case 4:
         if (secondNumber == 0):
-            print("НЕЛЬЗЯ ДЕЛИТЬ НА НОЛЬ!!!!!!")
+            print("НЕЛЬЗЯ ДЕЛИТЬ НА НОЛЬ!!!!!!") # можно
             result = "Ошибка!"
         else:
             result = firstNumber / secondNumber
